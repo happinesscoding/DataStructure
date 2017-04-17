@@ -25,5 +25,6 @@ public class Ex6_1 {
 		System.out.println("(4) 리스트의 마지막 노드 삭제하기");
 		L.deleteLastNode();
 		L.printList();
+		
 	}
 }
