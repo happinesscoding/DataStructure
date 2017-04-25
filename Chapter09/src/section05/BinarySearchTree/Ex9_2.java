@@ -27,7 +27,7 @@ public class Ex9_2 {
 		if(p1 != null) {
 			System.out.println("Searching Success! Searched key : " + p1.data);
 		} else {
-			System.out.println("Searching fail!! There is no " + p1.data);
+//			System.out.println("Searching fail!! There is no " + p1.data);
 		}
 		
 		System.out.print("Is There \"Z\" ? >>> ");
