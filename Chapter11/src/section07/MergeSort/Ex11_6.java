@@ -1,5 +1,9 @@
 package section07.MergeSort;
 
+/*
+ * 병합정렬 프로그램
+ */
+
 public class Ex11_6 {
 	public static void main(String[] args) {
 		int a[] = { 69, 10, 30, 2, 16, 8, 31, 22 };

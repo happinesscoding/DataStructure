@@ -1,5 +1,9 @@
 package section05.InsertSort;
 
+/*
+ * 삽입정렬 프로그램
+ */
+
 public class Ex11_4 {
 	public static void main(String[] args) {
 		int a[] = {69, 10, 30, 2, 16, 8, 31, 22};
