@@ -1,5 +1,9 @@
 package section02.graph;
 
+/*
+ * 그래프의 인접 행렬과 인접 리스트 표현
+ */
+
 public class Ex10_1 {
 	public static void main(String[] args) {
 		AdjMatrix MG1 = new AdjMatrix();
